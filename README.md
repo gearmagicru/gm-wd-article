@@ -1,4 +1,4 @@
-# Виджет "Статья" веб-приложения GearMagic
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-wd-article/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Виджет "Материал"
 
 Виджет предназначен для вывода статьи из базы данных.
 
